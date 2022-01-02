@@ -10,6 +10,10 @@
 
 - [Python by FreeCodeCamp](https://www.youtube.com/playlist?list=PLWKjhJtqVAbnqBxcdjVGgT3uVR10bzTEB)
 
+- [Intermediate Python Programming](https://www.youtube.com/watch?v=HGOBQPFzWKo)
+
+- [Object Oriented Programming in Python](https://www.youtube.com/watch?v=Ej_02ICOIgs)
+
 ## Topics
 
 - [x] [Python Basics](https://automatetheboringstuff.com/2e/chapter1/)
@@ -31,6 +35,8 @@
   - [x] Functions
   
   - [x] `*args` and `**kwargs` 
+
+  - [ ] Asterisk (*) operator
   
   - [x] Variable Scope
   
@@ -63,6 +69,8 @@
   - [x] Sets
   
   - [x] Dictionaries
+
+- [ ] Mutability
 
 - [ ] Advanced Data Structures
   
@@ -98,7 +106,7 @@
   
   - [ ] Closures
 
-- [ ] [Built-in Modules]([Python Module Index &#8212; Python 3.10.1 documentation](https://docs.python.org/3/py-modindex.html))
+- [ ] [Built-in Modules](https://docs.python.org/3/py-modindex.html)
   
   - [ ] `copy`
   
