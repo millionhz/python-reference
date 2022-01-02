@@ -45,6 +45,10 @@
   - [ ] Generators
   
   - [x] Lambda Functions
+
+  - [x] [Decorators](https://www.youtube.com/watch?v=FsAPt_9Bf3U)
+
+  - [ ] Closures
   
   - [ ] Built-In Functions
     
@@ -70,7 +74,7 @@
   
   - [x] Dictionaries
 
-- [ ] Mutability
+- [x] Mutability
 
 - [ ] Advanced Data Structures
   
@@ -90,22 +94,24 @@
   
   - [ ] Binary Search Trees
 
-- [ ] Object Oriented Programming
+- [ ] [Object Oriented Programming](https://docs.python.org/3/reference/datamodel.html)
   
-  - [ ] OOP Concepts
+  - [x] OOP Basics
   
-  - [ ] Classes in Python
-  
-  - [ ] Methods
-  
-  - [ ] Dunder Methods
-  
-  - [ ] Inheritance
-  
-  - [ ] Decorators
-  
-  - [ ] Closures
+  - [x] Instance and Class Attributes
 
+  - [x] Instance, Class and Static Methods 
+  
+  - [x] Inheritance
+
+  - [x] Private and Protected Data Members
+
+  - [x] Getter and Setter
+
+  - [x] Dunder Methods
+
+  - [ ] Abstract Classes
+  
 - [ ] [Built-in Modules](https://docs.python.org/3/py-modindex.html)
   
   - [ ] `copy`
@@ -159,3 +165,4 @@
 ## Other Python Concepts
 
 - [ ] [PEP-8](https://www.python.org/dev/peps/pep-0008/) style guide
+- [ ] [Docstrings](https://realpython.com/documenting-python-code/)
