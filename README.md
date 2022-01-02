@@ -154,7 +154,7 @@
   
   - [ ] Asynchronous Programming (`asyncio`)
   
-  - [ ] Multiprocessing
+  - [ ] Multiprocessing & Threading
 
 ## Other Python Concepts
 
