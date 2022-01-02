@@ -46,7 +46,7 @@
     
     - [x] `filter()`
     
-    - [ ] `enumerate()`
+    - [x] `enumerate()`
     
     - [ ] `iter()`
     
