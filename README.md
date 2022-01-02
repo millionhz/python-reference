@@ -8,43 +8,43 @@
 
 - [Real Python](https://realpython.com/)
 
-- [Python by FreeCodeCamp]([Python Tutorials - YouTube](https://www.youtube.com/playlist?list=PLWKjhJtqVAbnqBxcdjVGgT3uVR10bzTEB))
+- [Python by FreeCodeCamp](https://www.youtube.com/playlist?list=PLWKjhJtqVAbnqBxcdjVGgT3uVR10bzTEB)
 
 ## Topics
 
-- [ ] [Python Basics](https://automatetheboringstuff.com/2e/chapter1/)
+- [x] [Python Basics](https://automatetheboringstuff.com/2e/chapter1/)
 
-- [ ] DataTypes
+- [x] DataTypes
 
-- [ ] Operator
+- [x] Operator
 
-- [ ] Control Flow
+- [x] Control Flow
 
-- [ ] Loops
+- [x] Loops
 
-- [ ] Type Casting
+- [x] Type Casting
 
-- [ ] Exceptions
+- [x] Exception Handling
 
 - [ ] Functional Programming
   
-  - [ ] Functions
+  - [x] Functions
   
-  - [ ] `*args` and `**kwargs` 
+  - [x] `*args` and `**kwargs` 
   
-  - [ ] Variable Scope
+  - [x] Variable Scope
   
-  - [ ] Recursion
+  - [x] Recursion
   
   - [ ] Generators
   
-  - [ ] Lambda Functions
+  - [x] Lambda Functions
   
   - [ ] Built-In Functions
     
-    - [ ] `map()`
+    - [x] `map()`
     
-    - [ ] `filter()`
+    - [x] `filter()`
     
     - [ ] `enumerate()`
     
@@ -54,17 +54,15 @@
     
     - [ ] `id()`
 
-- [ ] Exception Handling
-
-- [ ] Data Structures
+- [x] Data Structures
   
-  - [ ] Lists
+  - [x] Lists
   
-  - [ ] Tuples
+  - [x] Tuples
   
-  - [ ] Sets
+  - [x] Sets
   
-  - [ ] Dictionaries
+  - [x] Dictionaries
 
 - [ ] Advanced Data Structures
   
@@ -106,11 +104,11 @@
   
   - [ ] `itertools`
   
-  - [ ] `argparse`
+  - [x] `argparse`
   
-  - [ ] `pathlib`
+  - [x] `pathlib`
   
-  - [ ] `datetime`
+  - [x] `datetime`
   
   - [ ] `json`
   
@@ -118,9 +116,9 @@
   
   - [ ] `os`
   
-  - [ ] `random`
+  - [x] `random`
   
-  - [ ] `subprocess`
+  - [x] `subprocess`
   
   - [ ] `sys`
   
@@ -128,13 +126,13 @@
 
 - [ ] External Libraries
   
-  - [ ] Pipenv
+  - [x] Pipenv
   
   - [ ] Pylint
   
-  - [ ] Pillow
+  - [x] Pillow
   
-  - [ ] Pandas
+  - [x] Pandas
   
   - [ ] Numpy
   
@@ -153,5 +151,3 @@
 ## Other Python Concepts
 
 - [ ] [PEP-8](https://www.python.org/dev/peps/pep-0008/) style guide
-
-
