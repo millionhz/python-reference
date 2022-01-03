@@ -61,8 +61,6 @@
     - [ ] `iter()`
     
     - [ ] `zip()`
-    
-    - [ ] `id()`
 
 - [x] Data Structures
   
