@@ -30,6 +30,8 @@
 
 - [x] Exception Handling
 
+- [x] [Keywords](https://realpython.com/python-keywords/) and [Statements](https://docs.python.org/3/reference/simple_stmts.html)
+
 - [ ] Functional Programming
   
   - [x] Functions
