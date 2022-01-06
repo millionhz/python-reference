@@ -138,6 +138,8 @@
   
   - [ ] `urllib`
 
+  - [ ] `shutil` 
+
 - [ ] External Libraries
   
   - [x] Pipenv
