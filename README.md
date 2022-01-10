@@ -96,7 +96,7 @@
 
 - [ ] [Object Oriented Programming](https://docs.python.org/3/reference/datamodel.html)
   
-  - [x] OOP Basics
+  - [x] [OOP Basics](https://realpython.com/python3-object-oriented-programming/)
   
   - [x] Instance and Class Attributes
 
@@ -106,9 +106,9 @@
 
   - [x] Private and Protected Data Members
 
-  - [x] Getter and Setter
+  - [x] Getter and Setter [@property](https://www.programiz.com/python-programming/property)
 
-  - [x] Dunder Methods
+  - [x] [Dunder Methods](https://docs.python.org/3/reference/datamodel.html#special-method-names)
 
   - [ ] Abstract Classes
   
