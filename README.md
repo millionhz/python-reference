@@ -18,19 +18,25 @@
 
 - [x] [Python Basics](https://automatetheboringstuff.com/2e/chapter1/)
 
-- [x] DataTypes
+- [x] [DataTypes](https://docs.python.org/3/library/stdtypes.html)
 
-- [x] Operator
+- [x] [Operator](https://realpython.com/python-data-types)
 
 - [x] Control Flow
 
 - [x] Loops
 
-- [x] Type Casting
-
 - [x] Exception Handling
 
-- [x] [Keywords](https://realpython.com/python-keywords/) and [Statements](https://docs.python.org/3/reference/simple_stmts.html)
+  - [ ] `try`, `except` and `finally`
+
+  - [ ] `raise` keyword
+
+  - [ ] [Built-in Exceptions](https://docs.python.org/3/library/exceptions.html#bltin-exceptions)
+
+- [x] [Keywords](https://realpython.com/python-keywords/)
+
+- [ ] [Statements](https://docs.python.org/3/reference/simple_stmts.html#the-assert-statement)
 
 - [ ] Functional Programming
   
@@ -52,7 +58,7 @@
 
   - [ ] Closures
   
-  - [ ] Built-In Functions
+  - [ ] [Built-In Functions](https://docs.python.org/3/library/functions.html)
     
     - [x] `map()`
     
@@ -64,15 +70,19 @@
     
     - [ ] `zip()`
 
-- [x] Data Structures
+- [x] Advanced Datatypes
   
-  - [x] Lists
+  - [x] [Lists](https://docs.python.org/3/tutorial/datastructures.html#more-on-lists)
   
   - [x] Tuples
   
-  - [x] Sets
+  - [x] [Sets](https://docs.python.org/3/library/stdtypes.html#set-types-set-frozenset)
   
-  - [x] Dictionaries
+  - [x] [Dictionaries](https://docs.python.org/3/library/stdtypes.html#mapping-types-dict)
+
+  - [ ] [Binary Sequence Types](https://docs.python.org/3/library/stdtypes.html#binary-sequence-types-bytes-bytearray-memoryview)
+
+  - [ ] `copy` module
 
 - [x] Mutability
 
@@ -102,11 +112,11 @@
 
   - [x] Instance, Class and Static Methods 
   
-  - [x] Inheritance
+  - [x] Inheritance (`super()`)
 
-  - [x] Private and Protected Data Members
+  - [x] Access Modifiers
 
-  - [x] Getter and Setter [@property](https://www.programiz.com/python-programming/property)
+  - [x] Getter and Setter ([@property](https://www.programiz.com/python-programming/property))
 
   - [x] [Dunder Methods](https://docs.python.org/3/reference/datamodel.html#special-method-names)
 
@@ -118,9 +128,9 @@
   
   - [ ] `itertools`
   
-  - [x] `argparse`
+  - [x] [`argparse`](https://docs.python.org/3/library/argparse.html)
   
-  - [x] `pathlib`
+  - [x] [`pathlib`](https://docs.python.org/3/library/pathlib.html)
   
   - [x] `datetime`
   
