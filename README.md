@@ -174,7 +174,13 @@
   
     - [ ] `asyncio` module
   
-  - [ ] Multiprocessing & Threading
+  - [ ] Concurrency
+
+    - [ ] [threading](https://docs.python.org/3/library/threading.html)
+
+    - [ ] [multiprocessing](https://docs.python.org/3/library/multiprocessing.html)
+
+    - [ ] [concurrent.futures](https://docs.python.org/3/library/concurrent.futures.html#module-concurrent.futures)
 
   - [ ] [Networking](https://docs.python.org/3/library/ipc.html) 
 
