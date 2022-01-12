@@ -20,7 +20,7 @@
 
 - [x] [DataTypes](https://docs.python.org/3/library/stdtypes.html)
 
-- [x] [Operator](https://realpython.com/python-data-types)
+- [x] [Operator](https://docs.python.org/3/library/operator.html)
 
 - [x] Control Flow
 
@@ -34,7 +34,7 @@
 
   - [ ] [Built-in Exceptions](https://docs.python.org/3/library/exceptions.html#bltin-exceptions)
 
-- [x] [Keywords](https://realpython.com/python-keywords/)
+- [x] [Keywords](https://realpython.com/python-keywords/#python-keywords)
 
 - [ ] [Statements](https://docs.python.org/3/reference/simple_stmts.html#the-assert-statement)
 
