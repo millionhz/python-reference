@@ -28,9 +28,9 @@
 
 - [x] Exception Handling
 
-  - [ ] `try`, `except` and `finally`
+  - [x] `try`, `except` and `finally`
 
-  - [ ] `raise` keyword
+  - [x] `raise` keyword
 
   - [ ] [Built-in Exceptions](https://docs.python.org/3/library/exceptions.html#bltin-exceptions)
 
@@ -170,7 +170,9 @@
 
 - [ ] Advances Concepts
   
-  - [ ] Asynchronous Programming (`asyncio`)
+  - [ ] Asynchronous Programming 
+  
+    - [ ] `asyncio` module
   
   - [ ] Multiprocessing & Threading
 
@@ -178,3 +180,4 @@
 
 - [ ] [PEP-8](https://www.python.org/dev/peps/pep-0008/) style guide
 - [ ] [Docstrings](https://realpython.com/documenting-python-code/)
+
