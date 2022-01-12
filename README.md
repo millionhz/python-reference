@@ -176,6 +176,8 @@
   
   - [ ] Multiprocessing & Threading
 
+  - [ ] [Networking](https://docs.python.org/3/library/ipc.html) 
+
 ## Other Python Concepts
 
 - [ ] [PEP-8](https://www.python.org/dev/peps/pep-0008/) style guide
