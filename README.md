@@ -151,9 +151,7 @@
   - [ ] `shutil` 
 
 - [ ] External Libraries
-  
-  - [x] Pipenv
-  
+    
   - [ ] Pylint
   
   - [x] Pillow
@@ -183,6 +181,14 @@
     - [ ] [concurrent.futures](https://docs.python.org/3/library/concurrent.futures.html#module-concurrent.futures)
 
   - [ ] [Networking](https://docs.python.org/3/library/ipc.html) 
+
+  - [ ] Virtual Environments
+
+    - [x] [Pipenv](https://realpython.com/pipenv-guide/)
+
+    - [ ] Conda
+
+    - [ ] [pyenv](https://github.com/pyenv/pyenv)
 
 ## Other Python Concepts
 
