@@ -182,13 +182,13 @@
 
   - [ ] [Networking](https://docs.python.org/3/library/ipc.html) 
 
-  - [ ] Virtual Environments
+- [ ] Virtual Environments
 
-    - [x] [Pipenv](https://realpython.com/pipenv-guide/)
+  - [x] [Pipenv](https://realpython.com/pipenv-guide/)
 
-    - [ ] Conda
+  - [ ] Conda
 
-    - [ ] [pyenv](https://github.com/pyenv/pyenv)
+  - [ ] [pyenv](https://github.com/pyenv/pyenv)
 
 ## Other Python Concepts
 
