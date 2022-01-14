@@ -168,9 +168,11 @@
 
 - [ ] Advances Concepts
   
-  - [ ] Asynchronous Programming 
+  - [ ] [Asynchronous Programming](https://docs.python.org/3/library/asyncio.html)
   
-    - [ ] `asyncio` module
+    - [ ] [`asyncio`](https://docs.python.org/3/library/asyncio-task.html#id3) - [TechWithTim](https://www.youtube.com/watch?v=t5Bo1Je9EmE)
+
+    - [ ] [Streams](https://docs.python.org/3/library/asyncio-stream.html) 
   
   - [ ] Concurrency
 
