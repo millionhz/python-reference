@@ -184,7 +184,11 @@
 
     - [ ] [concurrent.futures](https://docs.python.org/3/library/concurrent.futures.html#module-concurrent.futures)
 
-  - [ ] [Networking](https://docs.python.org/3/library/ipc.html) 
+  - [ ] [Networking Programing](https://docs.python.org/3/library/ipc.html)
+
+    - [ ] `socket`
+
+    - [ ] [`selector`](https://docs.python.org/3/library/selectors.html) (concurrency)
 
 - [ ] Virtual Environments
 
