@@ -200,6 +200,10 @@
 
 ## Other Python Concepts
 
-- [ ] [PEP-8](https://www.python.org/dev/peps/pep-0008/) style guide
-- [ ] [Docstrings](https://realpython.com/documenting-python-code/)
+- [ ] Type Checking
+  
+  - [ ] `typing` module 
 
+- [ ] [PEP-8](https://www.python.org/dev/peps/pep-0008/) style guide
+
+- [ ] [Docstrings](https://realpython.com/documenting-python-code/)
