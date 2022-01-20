@@ -70,7 +70,7 @@
     
     - [ ] `zip()`
 
-- [x] Advanced Datatypes
+- [x] Other Type and Data Structures
   
   - [x] [Lists](https://docs.python.org/3/tutorial/datastructures.html#more-on-lists)
   
