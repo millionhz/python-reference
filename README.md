@@ -84,6 +84,8 @@
 
   - [ ] `copy` module
 
+  - [ ] [Other DataTypes]((https://docs.python.org/3/library/datatypes.html))
+
 - [x] Mutability
 
 - [ ] [Context Managers](https://realpython.com/python-with-statement/)
