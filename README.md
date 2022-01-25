@@ -124,7 +124,7 @@
 
   - [ ] Abstract Classes
   
-- [ ] [Built-in Modules](https://docs.python.org/3/py-modindex.html)
+- [ ] [Built-in Modules](https://docs.python.org/3/library/) ([Complete Index](https://docs.python.org/3/py-modindex.html))
   
   - [ ] `copy`
   
