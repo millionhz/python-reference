@@ -118,9 +118,9 @@
   
   - [x] Inheritance (`super()`)
 
-  - [x] Access Modifiers
+  - [x] Access Modifiers (_protected & __private)
 
-  - [x] Getter and Setter ([@property](https://www.programiz.com/python-programming/property))
+  - [x] Getter and Setter ([@property](https://docs.python.org/3/library/functions.html#property) & [property()](https://stackoverflow.com/questions/17330160/how-does-the-property-decorator-work-in-python))
 
   - [x] [Dunder Methods](https://docs.python.org/3/reference/datamodel.html#special-method-names)
 
