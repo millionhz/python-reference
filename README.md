@@ -128,31 +128,31 @@
   
 - [ ] [Built-in Modules](https://docs.python.org/3/library/) ([Complete Index](https://docs.python.org/3/py-modindex.html))
   
-  - [ ] `copy`
-  
-  - [ ] `itertools`
-  
   - [x] [`argparse`](https://docs.python.org/3/library/argparse.html)
   
-  - [x] [`pathlib`](https://docs.python.org/3/library/pathlib.html)
+  - [ ] `copy`
   
   - [x] `datetime`
-  
-  - [ ] `json`
+
+  - [ ] `itertools`
   
   - [x] `logging`
-  
+
   - [ ] `os`
+
+  - [x] [`pathlib`](https://docs.python.org/3/library/pathlib.html)
   
   - [x] `random`
   
   - [x] `subprocess`
   
-  - [ ] `sys`
+  - [ ] `json`
   
   - [ ] `urllib`
-
+  
   - [ ] `shutil` 
+
+  - [ ] `sys`
 
 - [ ] External Libraries
     
