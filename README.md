@@ -42,7 +42,7 @@
   
   - [x] Functions
   
-  - [x] `*args` and `**kwargs` 
+  - [x] [`*args` and `**kwargs`](https://realpython.com/python-kwargs-and-args/)
 
   - [ ] Asterisk (*) operator
   
