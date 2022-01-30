@@ -204,6 +204,8 @@
 
 ## Other Python Concepts
 
+- [ ] [Walrus Operator](https://realpython.com/python-walrus-operator/)
+
 - [ ] Type Checking
   
   - [ ] `typing` module 
