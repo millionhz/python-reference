@@ -16,9 +16,11 @@
 
 ## Topics
 
-- [x] [Python Basics](https://automatetheboringstuff.com/2e/chapter1/)
+- [x] [Python - Intro](https://automatetheboringstuff.com/2e/chapter1/)
 
 - [x] [DataTypes](https://docs.python.org/3/library/stdtypes.html)
+
+- [x] [Variables](https://realpython.com/python-variables/)
 
 - [x] [Operator](https://docs.python.org/3/library/operator.html)
 
