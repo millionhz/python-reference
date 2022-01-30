@@ -116,6 +116,8 @@
   
   - [x] [OOP Basics](https://realpython.com/python3-object-oriented-programming/)
   
+  - [x] `__init__()` and `__new__()`
+
   - [x] Instance and Class Attributes
 
   - [x] Instance, Class and Static Methods 
