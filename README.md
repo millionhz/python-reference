@@ -90,6 +90,8 @@
 
 - [ ] [Context Managers](https://realpython.com/python-with-statement/)
 
+- [ ] [Iterators](https://docs.python.org/3/library/stdtypes.html#iterator-types)
+
 - [ ] Advanced Data Structures
   
   - [ ] `collections` module
@@ -170,7 +172,7 @@
   
   - [ ] Beautiful Soup
 
-- [ ] Advances Concepts
+- [ ] Advanced Concepts
   
   - [ ] [Asynchronous Programming](https://docs.python.org/3/library/asyncio.html)
   
