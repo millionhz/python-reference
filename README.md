@@ -206,13 +206,15 @@
 
   - [ ] [pyenv](https://github.com/pyenv/pyenv)
 
-## Other Python Concepts
-
 - [ ] [Walrus Operator](https://realpython.com/python-walrus-operator/)
 
 - [ ] Type Checking
   
   - [ ] `typing` module 
+
+## Other Stuff
+
+- [ ] [Static Analysis Tools](https://luminousmen.com/post/python-static-analysis-tools)
 
 - [ ] [PEP-8](https://www.python.org/dev/peps/pep-0008/) style guide
 
