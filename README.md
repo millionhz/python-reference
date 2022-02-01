@@ -22,7 +22,9 @@
 
 - [x] [Variables](https://realpython.com/python-variables/)
 
-- [x] [Operator](https://docs.python.org/3/library/operator.html)
+- [x] [Operators](https://docs.python.org/3/library/operator.html)
+
+  - [ ] [Walrus Operator](https://realpython.com/python-walrus-operator/)
 
 - [x] Control Flow
 
@@ -116,14 +118,14 @@
   
   - [x] [OOP Basics](https://realpython.com/python3-object-oriented-programming/)
   
-  - [x] `__init__()` and `__new__()`
+  - [x] Constructors (`__init__()` & `__new__()`)
 
   - [x] Instance and Class Attributes
 
   - [x] Instance, Class and Static Methods 
   
   - [x] Inheritance (`super()`)
-
+W
   - [x] Access Modifiers (_protected & __private)
 
   - [x] Getter and Setter ([@property](https://docs.python.org/3/library/functions.html#property) & [property()](https://stackoverflow.com/questions/17330160/how-does-the-property-decorator-work-in-python))
@@ -205,8 +207,6 @@
   - [ ] Conda
 
   - [ ] [pyenv](https://github.com/pyenv/pyenv)
-
-- [ ] [Walrus Operator](https://realpython.com/python-walrus-operator/)
 
 - [ ] Type Checking
   
