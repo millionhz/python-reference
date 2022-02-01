@@ -98,9 +98,9 @@
 
 - [ ] Advanced Data Structures
   
-  - [ ] `collections` module
+  - [ ] [`collections`](https://docs.python.org/3/library/collections.html)
   
-  - [ ] Arrays
+  - [ ] [`array`](https://docs.python.org/3/library/array.html)
   
   - [ ] Linked Lists
   
