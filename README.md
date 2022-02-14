@@ -108,7 +108,7 @@
   
   - [ ] Stacks
   
-  - [ ] Queues
+  - [ ] [`queue`](https://docs.python.org/3/library/queue.html)
   
   - [ ] Hash Tables
   
