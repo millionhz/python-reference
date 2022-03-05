@@ -74,7 +74,7 @@
     
     - [ ] `zip()`
 
-- [x] Other Type and Data Structures
+- [x] [Other Type and Data Structures](https://docs.python.org/3/library/datatypes.html)
   
   - [x] [Lists](https://docs.python.org/3/tutorial/datastructures.html#more-on-lists)
   
@@ -86,33 +86,19 @@
 
   - [ ] [Binary Sequence Types](https://docs.python.org/3/library/stdtypes.html#binary-sequence-types-bytes-bytearray-memoryview)
 
-  - [ ] `copy` module
+  - [ ] [`queue`](https://docs.python.org/3/library/queue.html)
 
-  - [ ] [Other DataTypes]((https://docs.python.org/3/library/datatypes.html))
+  - [ ] [`array`](https://docs.python.org/3/library/array.html)
+  
+  - [ ] [`collections`](https://docs.python.org/3/library/collections.html) module
+
+  - [ ] [`copy`](https://docs.python.org/3/library/copy.html) module
 
 - [x] Mutability
 
 - [ ] [Context Managers](https://realpython.com/python-with-statement/)
 
 - [ ] [Iterators](https://docs.python.org/3/library/stdtypes.html#iterator-types)
-
-- [ ] Advanced Data Structures
-  
-  - [ ] [`collections`](https://docs.python.org/3/library/collections.html)
-  
-  - [ ] [`array`](https://docs.python.org/3/library/array.html)
-  
-  - [ ] Linked Lists
-  
-  - [ ] Heaps
-  
-  - [ ] Stacks
-  
-  - [ ] [`queue`](https://docs.python.org/3/library/queue.html)
-  
-  - [ ] Hash Tables
-  
-  - [ ] Binary Search Trees
 
 - [ ] [Object Oriented Programming](https://docs.python.org/3/reference/datamodel.html)
   
@@ -125,7 +111,7 @@
   - [x] Instance, Class and Static Methods 
   
   - [x] Inheritance (`super()`)
-W
+
   - [x] Access Modifiers (_protected & __private)
 
   - [x] Getter and Setter ([@property](https://docs.python.org/3/library/functions.html#property) & [property()](https://stackoverflow.com/questions/17330160/how-does-the-property-decorator-work-in-python))
