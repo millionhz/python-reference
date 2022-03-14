@@ -43,45 +43,45 @@
 - [ ] [Statements](https://docs.python.org/3/reference/simple_stmts.html#the-assert-statement)
 
 - [ ] Functional Programming
-  
+
   - [x] Functions
-  
+
   - [x] [`*args` and `**kwargs`](https://realpython.com/python-kwargs-and-args/)
 
-  - [ ] Asterisk (*) operator
-  
+  - [ ] Asterisk (\*) operator
+
   - [x] Variable Scope
-  
+
   - [x] Recursion
-  
+
   - [ ] Generators
-  
+
   - [x] Lambda Functions
 
   - [x] [Decorators](https://www.youtube.com/watch?v=FsAPt_9Bf3U)
 
   - [ ] Closures
-  
+
   - [ ] [Built-In Functions](https://docs.python.org/3/library/functions.html)
-    
+
     - [x] `map()`
-    
+
     - [x] `filter()`
-    
+
     - [x] `enumerate()`
-    
+
     - [ ] `iter()`
-    
+
     - [ ] `zip()`
 
 - [x] [Other Type and Data Structures](https://docs.python.org/3/library/datatypes.html)
-  
+
   - [x] [Lists](https://docs.python.org/3/tutorial/datastructures.html#more-on-lists)
-  
+
   - [x] Tuples
-  
+
   - [x] [Sets](https://docs.python.org/3/library/stdtypes.html#set-types-set-frozenset)
-  
+
   - [x] [Dictionaries](https://docs.python.org/3/library/stdtypes.html#mapping-types-dict)
 
   - [ ] [Binary Sequence Types](https://docs.python.org/3/library/stdtypes.html#binary-sequence-types-bytes-bytearray-memoryview)
@@ -89,10 +89,12 @@
   - [ ] [`queue`](https://docs.python.org/3/library/queue.html)
 
   - [ ] [`array`](https://docs.python.org/3/library/array.html)
-  
+
   - [ ] [`collections`](https://docs.python.org/3/library/collections.html) module
 
   - [ ] [`copy`](https://docs.python.org/3/library/copy.html) module
+
+  - [ ] [Time Complexities](https://wiki.python.org/moin/TimeComplexity)
 
 - [x] Mutability
 
@@ -101,77 +103,77 @@
 - [ ] [Iterators](https://docs.python.org/3/library/stdtypes.html#iterator-types)
 
 - [ ] [Object Oriented Programming](https://docs.python.org/3/reference/datamodel.html)
-  
+
   - [x] [OOP Basics](https://realpython.com/python3-object-oriented-programming/)
-  
+
   - [x] Constructors (`__init__()` & `__new__()`)
 
   - [x] Instance and Class Attributes
 
-  - [x] Instance, Class and Static Methods 
-  
+  - [x] Instance, Class and Static Methods
+
   - [x] Inheritance (`super()`)
 
-  - [x] Access Modifiers (_protected & __private)
+  - [x] Access Modifiers (\_protected & \_\_private)
 
   - [x] Getter and Setter ([@property](https://docs.python.org/3/library/functions.html#property) & [property()](https://stackoverflow.com/questions/17330160/how-does-the-property-decorator-work-in-python))
 
   - [x] [Dunder Methods](https://docs.python.org/3/reference/datamodel.html#special-method-names)
 
   - [ ] Abstract Classes
-  
+
 - [ ] [Built-in Modules](https://docs.python.org/3/library/) ([Complete Index](https://docs.python.org/3/py-modindex.html))
-  
+
   - [x] [`argparse`](https://docs.python.org/3/library/argparse.html)
-  
+
   - [ ] `copy`
-  
+
   - [x] `datetime`
 
   - [ ] `itertools`
-  
+
   - [x] `logging`
 
   - [ ] `os`
 
   - [x] [`pathlib`](https://docs.python.org/3/library/pathlib.html)
-  
+
   - [x] `random`
-  
+
   - [x] `subprocess`
-  
+
   - [ ] `json`
-  
+
   - [ ] `urllib`
-  
-  - [ ] `shutil` 
+
+  - [ ] `shutil`
 
   - [ ] `sys`
 
 - [ ] External Libraries
-    
+
   - [ ] Pylint
-  
+
   - [x] Pillow
-  
+
   - [x] Pandas
-  
+
   - [ ] Numpy
-  
+
   - [ ] Matplotlib
-  
+
   - [ ] Scipy
-  
+
   - [ ] Beautiful Soup
 
 - [ ] Advanced Concepts
-  
+
   - [ ] [Asynchronous Programming](https://docs.python.org/3/library/asyncio.html)
-  
+
     - [ ] [`asyncio`](https://docs.python.org/3/library/asyncio-task.html#id3) - [TechWithTim](https://www.youtube.com/watch?v=t5Bo1Je9EmE)
 
-    - [ ] [Streams](https://docs.python.org/3/library/asyncio-stream.html) 
-  
+    - [ ] [Streams](https://docs.python.org/3/library/asyncio-stream.html)
+
   - [ ] Concurrency
 
     - [ ] [threading](https://docs.python.org/3/library/threading.html)
@@ -195,8 +197,8 @@
   - [ ] [pyenv](https://github.com/pyenv/pyenv)
 
 - [ ] Type Checking
-  
-  - [ ] `typing` module 
+
+  - [ ] `typing` module
 
 ## Other Stuff
 
@@ -205,3 +207,5 @@
 - [ ] [PEP-8](https://www.python.org/dev/peps/pep-0008/) style guide
 
 - [ ] [Docstrings](https://realpython.com/documenting-python-code/)
+
+- [ ] [Python Wiki](https://wiki.python.org/moin/)
