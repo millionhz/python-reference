@@ -190,11 +190,13 @@
 
 - [ ] Virtual Environments
 
-  - [x] [Pipenv](https://realpython.com/pipenv-guide/)
+  - [ ] [venv](https://docs.python.org/3/library/venv.html)
 
-  - [ ] Conda
+  - [x] [pipenv](https://realpython.com/pipenv-guide/)
 
   - [ ] [pyenv](https://github.com/pyenv/pyenv)
+
+  - [ ] Conda
 
 - [ ] Type Checking
 
