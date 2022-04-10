@@ -74,9 +74,9 @@
 
   - [x] `enumerate()`
 
-  - [ ] `iter()`
+  - [x] `zip()`
 
-  - [ ] `zip()`
+  - [ ] `iter()`
 
 - [x] [Other Type and Data Structures](https://docs.python.org/3/library/datatypes.html)
 
@@ -215,3 +215,5 @@
 - [ ] [Docstrings](https://realpython.com/documenting-python-code/)
 
 - [ ] [Python Lexical Analysis](https://docs.python.org/3/reference/lexical_analysis.html)
+
+- [ ] Python Global Variables
