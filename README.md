@@ -2,7 +2,9 @@
 
 ## Sites
 
-- [Python Docs](https://docs.python.org/3/)
+- [Python Language Refernce](https://docs.python.org/3/reference/)
+
+- [Python Wiki](https://wiki.python.org/moin/)
 
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 
@@ -16,17 +18,19 @@
 
 ## Topics
 
-- [x] [Python - Intro](https://automatetheboringstuff.com/2e/chapter1/)
+- [x] [Intro to Python](https://automatetheboringstuff.com/2e/chapter1/)
 
 - [x] [DataTypes](https://docs.python.org/3/library/stdtypes.html)
 
 - [x] [Variables](https://realpython.com/python-variables/)
 
-- [x] [Operators](https://docs.python.org/3/library/operator.html)
+- [x] [Operators](https://docs.python.org/3/library/operator.html#mapping-operators-to-functions)
 
   - [ ] [Walrus Operator](https://realpython.com/python-walrus-operator/)
 
 - [x] Control Flow
+
+  - [ ] [`match`](https://docs.python.org/3/reference/compound_stmts.html#the-match-statement) keyword
 
 - [x] Loops
 
@@ -62,17 +66,17 @@
 
   - [ ] Closures
 
-  - [ ] [Built-In Functions](https://docs.python.org/3/library/functions.html)
+- [ ] [Built-In Functions](https://docs.python.org/3/library/functions.html)
 
-    - [x] `map()`
+  - [x] `map()`
 
-    - [x] `filter()`
+  - [x] `filter()`
 
-    - [x] `enumerate()`
+  - [x] `enumerate()`
 
-    - [ ] `iter()`
+  - [ ] `iter()`
 
-    - [ ] `zip()`
+  - [ ] `zip()`
 
 - [x] [Other Type and Data Structures](https://docs.python.org/3/library/datatypes.html)
 
@@ -118,7 +122,7 @@
 
   - [x] Getter and Setter ([@property](https://docs.python.org/3/library/functions.html#property) & [property()](https://stackoverflow.com/questions/17330160/how-does-the-property-decorator-work-in-python))
 
-  - [x] [Dunder Methods](https://docs.python.org/3/reference/datamodel.html#special-method-names)
+  - [x] [Magic Methods](https://docs.python.org/3/reference/datamodel.html#special-method-names)
 
   - [ ] Abstract Classes
 
@@ -210,4 +214,4 @@
 
 - [ ] [Docstrings](https://realpython.com/documenting-python-code/)
 
-- [ ] [Python Wiki](https://wiki.python.org/moin/)
+- [ ] [Python Lexical Analysis](https://docs.python.org/3/reference/lexical_analysis.html)
