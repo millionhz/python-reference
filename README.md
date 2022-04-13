@@ -104,6 +104,8 @@
 
 - [ ] [Context Managers](https://realpython.com/python-with-statement/)
 
+- [ ] [File I/O](https://www.w3schools.com/python/python_ref_file.asp)
+
 - [ ] [Iterators](https://docs.python.org/3/library/stdtypes.html#iterator-types)
 
 - [ ] [Object Oriented Programming](https://docs.python.org/3/reference/datamodel.html)
@@ -188,7 +190,7 @@
 
   - [ ] [Networking Programing](https://docs.python.org/3/library/ipc.html)
 
-    - [ ] `socket`
+    - [ ] [`socket`](https://realpython.com/python-sockets/)
 
     - [ ] [`selector`](https://docs.python.org/3/library/selectors.html) (concurrency)
 
