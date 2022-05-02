@@ -26,6 +26,8 @@
 
 - [x] [Operators](https://docs.python.org/3/library/operator.html#mapping-operators-to-functions)
 
+  - [ ] [Ternary Operator](https://docs.python.org/3/reference/expressions.html#conditional-expressions)
+
   - [ ] [Walrus Operator](https://realpython.com/python-walrus-operator/)
 
 - [x] Control Flow
@@ -45,6 +47,8 @@
 - [x] [Keywords](https://realpython.com/python-keywords/#python-keywords)
 
 - [ ] [Statements](https://docs.python.org/3/reference/simple_stmts.html#the-assert-statement)
+
+- [ ] [Expressions](https://docs.python.org/3/reference/expressions.html#displays-for-lists-sets-and-dictionaries)
 
 - [ ] Functional Programming
 
@@ -80,7 +84,7 @@
 
 - [x] [Other Type and Data Structures](https://docs.python.org/3/library/datatypes.html)
 
-  - [x] [Lists](https://docs.python.org/3/tutorial/datastructures.html#more-on-lists)
+  - [x] [Lists](https://docs.python.org/3/tutorial/datastructures.html#more-on-lists) ([List Comprehension](https://docs.python.org/3/reference/expressions.html#displays-for-lists-sets-and-dictionaries))
 
   - [x] Tuples
 
@@ -172,27 +176,25 @@
 
   - [ ] Beautiful Soup
 
-- [ ] Advanced Concepts
+- [ ] [Asynchronous Programming](https://docs.python.org/3/library/asyncio.html)
 
-  - [ ] [Asynchronous Programming](https://docs.python.org/3/library/asyncio.html)
+  - [ ] [`asyncio`](https://docs.python.org/3/library/asyncio-task.html#id3) - [TechWithTim](https://www.youtube.com/watch?v=t5Bo1Je9EmE)
 
-    - [ ] [`asyncio`](https://docs.python.org/3/library/asyncio-task.html#id3) - [TechWithTim](https://www.youtube.com/watch?v=t5Bo1Je9EmE)
+  - [ ] [Streams](https://docs.python.org/3/library/asyncio-stream.html)
 
-    - [ ] [Streams](https://docs.python.org/3/library/asyncio-stream.html)
+- [ ] Concurrency
 
-  - [ ] Concurrency
+  - [ ] [threading](https://docs.python.org/3/library/threading.html)
 
-    - [ ] [threading](https://docs.python.org/3/library/threading.html)
+  - [ ] [multiprocessing](https://docs.python.org/3/library/multiprocessing.html)
 
-    - [ ] [multiprocessing](https://docs.python.org/3/library/multiprocessing.html)
+  - [ ] [concurrent.futures](https://docs.python.org/3/library/concurrent.futures.html#module-concurrent.futures)
 
-    - [ ] [concurrent.futures](https://docs.python.org/3/library/concurrent.futures.html#module-concurrent.futures)
+- [ ] [Networking Programing](https://docs.python.org/3/library/ipc.html)
 
-  - [ ] [Networking Programing](https://docs.python.org/3/library/ipc.html)
+  - [ ] [`socket`](https://realpython.com/python-sockets/)
 
-    - [ ] [`socket`](https://realpython.com/python-sockets/)
-
-    - [ ] [`selector`](https://docs.python.org/3/library/selectors.html) (concurrency)
+  - [ ] [`selector`](https://docs.python.org/3/library/selectors.html) (concurrency)
 
 - [ ] Virtual Environments
 
