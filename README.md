@@ -198,7 +198,9 @@
 
 - [ ] Virtual Environments
 
-  - [ ] [venv](https://docs.python.org/3/library/venv.html)
+  - [ ] [venv](https://docs.python.org/3/library/venv.html) (python standard lib)
+
+  - [ ] [virtualenv](https://virtualenv.pypa.io/en/latest/) (python package)
 
   - [x] [pipenv](https://realpython.com/pipenv-guide/)
 
