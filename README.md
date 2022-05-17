@@ -136,31 +136,25 @@
 
   - [x] [`argparse`](https://docs.python.org/3/library/argparse.html)
 
-  - [ ] `copy`
+  - [ ] [`copy`](https://docs.python.org/3/library/copy.html)
 
-  - [x] `datetime`
+  - [ ] [`itertools`](https://docs.python.org/3/library/itertools.html)
 
-  - [ ] `itertools`
+  - [x] [`logging`](https://docs.python.org/3/library/logging.html)
 
-  - [x] `logging`
-
-  - [ ] `os`
+  - [ ] [`os`](https://docs.python.org/3/library/os.html)
 
   - [x] [`pathlib`](https://docs.python.org/3/library/pathlib.html)
 
-  - [x] `random`
-
-  - [x] `subprocess`
-
-  - [x] [`json`](https://docs.python.org/3/library/json.html)
+  - [x] [`subprocess`](https://docs.python.org/3/library/subprocess.html)
 
   - [ ] [`csv`](https://docs.python.org/3/library/csv.html)
 
-  - [ ] `urllib`
+  - [ ] [`urllib`](https://docs.python.org/3/library/urllib.html)
 
-  - [ ] `shutil`
+  - [ ] [`shutil`](https://docs.python.org/3/library/shutil.html)
 
-  - [ ] `sys`
+  - [ ] [`sys`](https://docs.python.org/3/library/sys.html)
 
 - [ ] External Libraries
 
