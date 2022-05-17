@@ -56,13 +56,9 @@
 
   - [x] [`*args` and `**kwargs`](https://realpython.com/python-kwargs-and-args/)
 
-  - [ ] Asterisk (\*) operator
-
   - [x] Variable Scope
 
   - [x] Recursion
-
-  - [ ] Generators
 
   - [x] Lambda Functions
 
@@ -70,17 +66,9 @@
 
   - [ ] Closures
 
+  - [ ] Generators
+
 - [ ] [Built-In Functions](https://docs.python.org/3/library/functions.html)
-
-  - [x] `map()`
-
-  - [x] `filter()`
-
-  - [x] `enumerate()`
-
-  - [x] `zip()`
-
-  - [ ] `iter()`
 
 - [x] [Other Type and Data Structures](https://docs.python.org/3/library/datatypes.html)
 
@@ -93,6 +81,8 @@
   - [x] [Dictionaries](https://docs.python.org/3/library/stdtypes.html#mapping-types-dict)
 
   - [ ] [Binary Sequence Types](https://docs.python.org/3/library/stdtypes.html#binary-sequence-types-bytes-bytearray-memoryview)
+
+  - [ ] [Iterators](https://docs.python.org/3/library/stdtypes.html#iterator-types)
 
   - [ ] [`queue`](https://docs.python.org/3/library/queue.html)
 
@@ -109,8 +99,6 @@
 - [ ] [Context Managers](https://realpython.com/python-with-statement/)
 
 - [ ] [File I/O](https://www.w3schools.com/python/python_ref_file.asp)
-
-- [ ] [Iterators](https://docs.python.org/3/library/stdtypes.html#iterator-types)
 
 - [ ] [Object Oriented Programming](https://docs.python.org/3/reference/datamodel.html)
 
@@ -158,8 +146,6 @@
 
 - [ ] External Libraries
 
-  - [ ] Pylint
-
   - [x] Pillow
 
   - [x] Pandas
@@ -204,9 +190,15 @@
 
   - [ ] Conda
 
+- [ ] Linting
+
+  - [ ] `pylint`
+
 - [ ] Type Checking
 
   - [ ] `typing` module
+
+  - [ ] `mypy`
 
 ## Other Stuff
 
