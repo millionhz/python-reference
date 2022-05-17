@@ -144,20 +144,6 @@
 
   - [ ] [`sys`](https://docs.python.org/3/library/sys.html)
 
-- [ ] External Libraries
-
-  - [x] Pillow
-
-  - [x] Pandas
-
-  - [ ] Numpy
-
-  - [ ] Matplotlib
-
-  - [ ] Scipy
-
-  - [ ] Beautiful Soup
-
 - [ ] [Asynchronous Programming](https://docs.python.org/3/library/asyncio.html)
 
   - [ ] [`asyncio`](https://docs.python.org/3/library/asyncio-task.html#id3) - [TechWithTim](https://www.youtube.com/watch?v=t5Bo1Je9EmE)
