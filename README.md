@@ -152,7 +152,9 @@
 
   - [x] `subprocess`
 
-  - [ ] `json`
+  - [x] [`json`](https://docs.python.org/3/library/json.html)
+
+  - [ ] [`csv`](https://docs.python.org/3/library/csv.html)
 
   - [ ] `urllib`
 
