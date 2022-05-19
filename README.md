@@ -138,6 +138,8 @@
 
   - [ ] [`csv`](https://docs.python.org/3/library/csv.html)
 
+  - [ ] [`sqlite3`](https://docs.python.org/3/library/sqlite3.html)
+
   - [ ] [`urllib`](https://docs.python.org/3/library/urllib.html)
 
   - [ ] [`shutil`](https://docs.python.org/3/library/shutil.html)
