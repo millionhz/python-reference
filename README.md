@@ -90,8 +90,6 @@
 
   - [ ] [`collections`](https://docs.python.org/3/library/collections.html) module
 
-  - [ ] [`copy`](https://docs.python.org/3/library/copy.html) module
-
   - [ ] [Time Complexities](https://wiki.python.org/moin/TimeComplexity)
 
 - [x] Mutability
@@ -180,13 +178,13 @@
 
 - [ ] Linting
 
-  - [ ] `pylint`
+  - [ ] pylint
 
 - [ ] Type Checking
 
-  - [ ] `typing` module
+  - [ ] [`typing`](https://docs.python.org/3/library/typing.html) module
 
-  - [ ] `mypy`
+  - [ ] mypy
 
 ## Other Stuff
 
