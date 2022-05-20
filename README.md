@@ -10,11 +10,11 @@
 
 - [Real Python](https://realpython.com/)
 
-- [Python by FreeCodeCamp](https://www.youtube.com/playlist?list=PLWKjhJtqVAbnqBxcdjVGgT3uVR10bzTEB)
+- [Python Playlist](https://www.youtube.com/playlist?list=PLWKjhJtqVAbnqBxcdjVGgT3uVR10bzTEB) (freeCodeCamp)
 
-- [Intermediate Python Programming](https://www.youtube.com/watch?v=HGOBQPFzWKo)
+- [Intermediate Python Programming](https://www.youtube.com/watch?v=HGOBQPFzWKo) (freeCodeCamp)
 
-- [Object Oriented Programming in Python](https://www.youtube.com/watch?v=Ej_02ICOIgs)
+- [Object Oriented Programming in Python](https://www.youtube.com/watch?v=Ej_02ICOIgs) (freeCodeCamp)
 
 ## Topics
 
