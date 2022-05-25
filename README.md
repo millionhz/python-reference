@@ -142,6 +142,8 @@
 
   - [`sys`](https://docs.python.org/3/library/sys.html)
 
+  - [`inspect`](https://docs.python.org/3/library/inspect.html)
+
 - [Asynchronous Programming](https://docs.python.org/3/library/asyncio.html)
 
   - [`asyncio`](https://docs.python.org/3/library/asyncio-task.html#id3) - [TechWithTim](https://www.youtube.com/watch?v=t5Bo1Je9EmE)
