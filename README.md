@@ -91,6 +91,10 @@
 
   - [`array`](https://docs.python.org/3/library/array.html)
 
+  - [`heapq`](https://docs.python.org/3/library/heapq.html#module-heapq) (min-heap)
+
+  - [`bisect`](https://docs.python.org/3/library/bisect.html#module-bisect) (sorted lists)
+
   - [`collections`](https://docs.python.org/3/library/collections.html) module
 
   - [Time Complexities](https://wiki.python.org/moin/TimeComplexity)
@@ -112,6 +116,8 @@
   - Instance, Class and Static Methods
 
   - Inheritance (`super()`)
+
+  - Multiple Inheritance (mro)
 
   - Access Modifiers (\_protected & \_\_private)
 
