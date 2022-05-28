@@ -1,8 +1,8 @@
-# Python Roadmap
+# Python Reference
 
 ## Sites
 
-- [Python Language Reference](https://docs.python.org/3/reference/)
+- [Python Reference](https://docs.python.org/3/reference/)
 
 - [Python Wiki](https://wiki.python.org/moin/)
 
