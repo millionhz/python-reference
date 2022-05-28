@@ -125,27 +125,27 @@
 
   - [`copy`](https://docs.python.org/3/library/copy.html)
 
-  - [`itertools`](https://docs.python.org/3/library/itertools.html)
+  - [`csv`](https://docs.python.org/3/library/csv.html)
+
+  - [`inspect`](https://docs.python.org/3/library/inspect.html)
 
   - [`logging`](https://docs.python.org/3/library/logging.html)
+
+  - [`itertools`](https://docs.python.org/3/library/itertools.html)
 
   - [`os`](https://docs.python.org/3/library/os.html)
 
   - [`pathlib`](https://docs.python.org/3/library/pathlib.html)
 
-  - [`subprocess`](https://docs.python.org/3/library/subprocess.html)
-
-  - [`csv`](https://docs.python.org/3/library/csv.html)
+  - [`shutil`](https://docs.python.org/3/library/shutil.html)
 
   - [`sqlite3`](https://docs.python.org/3/library/sqlite3.html)
 
-  - [`urllib`](https://docs.python.org/3/library/urllib.html)
-
-  - [`shutil`](https://docs.python.org/3/library/shutil.html)
+  - [`subprocess`](https://docs.python.org/3/library/subprocess.html)
 
   - [`sys`](https://docs.python.org/3/library/sys.html)
 
-  - [`inspect`](https://docs.python.org/3/library/inspect.html)
+  - [`urllib`](https://docs.python.org/3/library/urllib.html)
 
 - [Asynchronous Programming](https://docs.python.org/3/library/asyncio.html)
 
