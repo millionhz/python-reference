@@ -20,11 +20,15 @@
 
 - [Intro to Python](https://automatetheboringstuff.com/2e/chapter1/)
 
-- [DataTypes](https://docs.python.org/3/library/stdtypes.html)
+- [Built-in DataTypes](https://docs.python.org/3/library/stdtypes.html)
 
 - [Variables](https://realpython.com/python-variables/)
 
+  - [Scopes](https://realpython.com/python-scope-legb-rule/)
+
 - [Operators](https://docs.python.org/3/library/operator.html#mapping-operators-to-functions)
+
+  - [Operator Precedence](https://docs.python.org/3/reference/expressions.html#operator-precedence)
 
   - [Ternary Operator](https://docs.python.org/3/reference/expressions.html#conditional-expressions)
 
@@ -32,9 +36,13 @@
 
 - Control Flow
 
+  - `if`, `elif` and `else`
+
   - [`match`](https://docs.python.org/3/reference/compound_stmts.html#the-match-statement) keyword
 
 - Loops
+
+  - `break` & `continue`
 
 - Exception Handling
 
@@ -42,23 +50,18 @@
 
   - `raise` keyword
 
-- [Built-in Exceptions](https://docs.python.org/3/library/exceptions.html#bltin-exceptions)
+  - [Built-in Exceptions](https://docs.python.org/3/library/exceptions.html#bltin-exceptions)
 
 - [Keywords](https://realpython.com/python-keywords/#python-keywords)
 
-- [Statements](https://docs.python.org/3/reference/simple_stmts.html#the-assert-statement)
-
-- [Expressions](https://docs.python.org/3/reference/expressions.html#displays-for-lists-sets-and-dictionaries)
+- [Expressions](https://docs.python.org/3/reference/expressions.html) & [Statements](https://docs.python.org/3/reference/simple_stmts.html#the-assert-statement)
+ 
 
 - Functional Programming
 
   - [Built-In Functions](https://docs.python.org/3/library/functions.html)
 
   - [`*args` and `**kwargs`](https://realpython.com/python-kwargs-and-args/)
-
-  - Variable Scope
-
-  - Recursion
 
   - Lambda Functions
 
@@ -68,7 +71,7 @@
 
   - Generators
 
-- [Other Type and Data Structures](https://docs.python.org/3/library/datatypes.html)
+- [Data Types and Data Structures](https://docs.python.org/3/library/datatypes.html)
 
   - [Lists](https://docs.python.org/3/tutorial/datastructures.html#more-on-lists) ([List Comprehension](https://docs.python.org/3/reference/expressions.html#displays-for-lists-sets-and-dictionaries))
 
