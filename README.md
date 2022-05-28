@@ -2,6 +2,8 @@
 
 ## Sites
 
+- [Python Docs](https://docs.python.org/3/)
+
 - [Python Reference](https://docs.python.org/3/reference/)
 
 - [Python Wiki](https://wiki.python.org/moin/)
@@ -18,7 +20,7 @@
 
 ## Topics
 
-- [Intro to Python](https://automatetheboringstuff.com/2e/chapter1/)
+- [Python Tutorial](https://docs.python.org/3/tutorial/index.html)
 
 - [Built-in DataTypes](https://docs.python.org/3/library/stdtypes.html)
 
