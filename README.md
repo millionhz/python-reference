@@ -56,7 +56,7 @@
 
 - [Keywords](https://realpython.com/python-keywords/#python-keywords)
 
-- [Expressions](https://docs.python.org/3/reference/expressions.html) & [Statements](https://docs.python.org/3/reference/simple_stmts.html#the-assert-statement)
+- [Expressions](https://docs.python.org/3/reference/expressions.html), [Simple Statements](https://docs.python.org/3/reference/simple_stmts.html#the-assert-statement) & [Compound Statements](https://docs.python.org/3/reference/compound_stmts.html)
  
 
 - Functional Programming
