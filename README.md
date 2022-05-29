@@ -65,7 +65,7 @@
 
   - [Built-In Functions](https://docs.python.org/3/library/functions.html)
 
-  - [defaults, `*args` & `**kwargs`](https://docs.python.org/3/tutorial/controlflow.html#more-on-defining-functions)
+  - [Variadic Arguments (`*args` & `**kwargs`)](https://docs.python.org/3/tutorial/controlflow.html#more-on-defining-functions) ([realpython](https://realpython.com/python-kwargs-and-args/))
 
   - Lambda Functions
 
