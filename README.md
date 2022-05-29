@@ -95,7 +95,9 @@
 
   - [`bisect`](https://docs.python.org/3/library/bisect.html#module-bisect) (sorted lists)
 
-  - [`collections`](https://docs.python.org/3/library/collections.html) module
+  - [`collections`](https://docs.python.org/3/library/collections.html)
+
+  - [`collections.abc`](https://docs.python.org/3/library/collections.abc.html) (abstract base class)
 
   - [Time Complexities](https://wiki.python.org/moin/TimeComplexity)
 
