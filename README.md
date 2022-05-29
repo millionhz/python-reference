@@ -147,6 +147,8 @@
 
   - [`pathlib`](https://docs.python.org/3/library/pathlib.html)
 
+  - [`random`](https://docs.python.org/3/library/random.html)
+
   - [`shutil`](https://docs.python.org/3/library/shutil.html)
 
   - [`sqlite3`](https://docs.python.org/3/library/sqlite3.html)
