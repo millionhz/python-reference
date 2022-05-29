@@ -119,7 +119,7 @@
 
   - Inheritance (`super()`)
 
-  - Multiple Inheritance (mro)
+  - [Multiple Inheritance](https://realpython.com/python-super/) (mro)
 
   - Access Modifiers (\_protected & \_\_private)
 
