@@ -6,11 +6,13 @@
 
 - [Python Reference](https://docs.python.org/3/reference/)
 
+- [Python Tutorial](https://docs.python.org/3/tutorial/index.html)
+
 - [Python Wiki](https://wiki.python.org/moin/)
 
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 
-- [Real Python](https://realpython.com/)
+- [Intro to Python - Real Python](https://realpython.com/learning-paths/python3-introduction/)
 
 - [Python Playlist](https://www.youtube.com/playlist?list=PLWKjhJtqVAbnqBxcdjVGgT3uVR10bzTEB) (freeCodeCamp)
 
@@ -20,7 +22,7 @@
 
 ## Topics
 
-- [Python Tutorial](https://docs.python.org/3/tutorial/index.html)
+- [Hello World](https://realpython.com/interacting-with-python/)
 
 - [Built-in DataTypes](https://docs.python.org/3/library/stdtypes.html)
 
@@ -63,7 +65,7 @@
 
   - [Built-In Functions](https://docs.python.org/3/library/functions.html)
 
-  - [`*args` and `**kwargs`](https://realpython.com/python-kwargs-and-args/)
+  - [defaults, `*args` & `**kwargs`](https://docs.python.org/3/tutorial/controlflow.html#more-on-defining-functions)
 
   - Lambda Functions
 
