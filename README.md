@@ -197,7 +197,10 @@
 
 - Linting
 
-  - pylint
+  - [Pylint](https://pylint.pycqa.org/en/latest/)
+
+- Unit Testing
+  - [pytest](https://docs.pytest.org/en/7.1.x/)
 
 - Type Checking
 
