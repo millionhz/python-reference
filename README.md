@@ -131,7 +131,9 @@
 
   - Abstract Classes
 
-- [Built-in Modules](https://docs.python.org/3/library/) ([Complete Index](https://docs.python.org/3/py-modindex.html))
+- [Python Packages](https://realpython.com/python-modules-packages/#python-packages) (user-defined modules)
+
+- [Built-in Modules](https://docs.python.org/3/library/) (Standard Library) ([Complete Index](https://docs.python.org/3/py-modindex.html))
 
   - [`argparse`](https://docs.python.org/3/library/argparse.html)
 
@@ -209,6 +211,6 @@
 
 - [PEP-8](https://www.python.org/dev/peps/pep-0008/) style guide
 
-- [Docstrings](https://realpython.com/documenting-python-code/)
+- [Docstrings](https://realpython.com/documenting-python-code/) (documenting code)
 
 - [Python Lexical Analysis](https://docs.python.org/3/reference/lexical_analysis.html)
