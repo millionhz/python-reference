@@ -131,6 +131,8 @@
 
   - Abstract Classes
 
+  - [Data Classes](https://docs.python.org/3/library/dataclasses.html)
+
 - [Python Packages](https://realpython.com/python-modules-packages/#python-packages) (user-defined modules)
 
 - [Built-in Modules](https://docs.python.org/3/library/) (Standard Library) ([Complete Index](https://docs.python.org/3/py-modindex.html))
