@@ -20,7 +20,7 @@
 
 - [Object Oriented Programming in Python](https://www.youtube.com/watch?v=Ej_02ICOIgs) (freeCodeCamp)
 
-## Topics
+## General Topics
 
 - [Hello World](https://realpython.com/interacting-with-python/)
 
@@ -167,7 +167,7 @@
 
 - [Asynchronous Programming](https://docs.python.org/3/library/asyncio.html)
 
-  - [`asyncio`](https://docs.python.org/3/library/asyncio-task.html#id3) - [TechWithTim](https://www.youtube.com/watch?v=t5Bo1Je9EmE)
+  - [`asyncio`](https://docs.python.org/3/library/asyncio-task.html#id3) - [TechWithTim Video](https://www.youtube.com/watch?v=t5Bo1Je9EmE)
 
   - [Streams](https://docs.python.org/3/library/asyncio-stream.html)
 
@@ -195,8 +195,6 @@
 
   - [pyenv](https://github.com/pyenv/pyenv)
 
-  - Conda
-
 - Linting
 
   - [Pylint](https://pylint.pycqa.org/en/latest/)
@@ -209,6 +207,10 @@
 
 - Unit Testing
   - [pytest](https://docs.pytest.org/en/7.1.x/)
+
+- Machine Learning
+
+  - [Conda](https://docs.conda.io/projects/conda/en/latest/index.html)
 
 ## Other Stuff
 
