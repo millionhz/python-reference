@@ -163,6 +163,8 @@
 
   - [`sys`](https://docs.python.org/3/library/sys.html)
 
+  - [`unittest`](https://docs.python.org/3/library/unittest.html)
+
   - [`urllib`](https://docs.python.org/3/library/urllib.html)
 
 - [Asynchronous Programming](https://docs.python.org/3/library/asyncio.html)
