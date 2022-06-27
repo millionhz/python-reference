@@ -203,7 +203,7 @@
 
   - [Pylint](https://pylint.pycqa.org/en/latest/)
 
-- Type Checking
+- Static Typing
 
   - [`typing`](https://docs.python.org/3/library/typing.html) module
 
