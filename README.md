@@ -1,12 +1,23 @@
 # Python Reference
+- [Python Reference](#python-reference)
+- [Sites](#sites)
+- [Language Fundamentals](#language-fundamentals)
+- [Modules and Libraries](#modules-and-libraries)
+  - [Frequently Used Packages](#frequently-used-packages)
+  - [Asynchronous Programming](#asynchronous-programming)
+  - [Concurrency](#concurrency)
+  - [Networking Programing](#networking-programing)
+  - [Virtual Environments](#virtual-environments)
+  - [Linting](#linting)
+  - [Static Typing](#static-typing)
+  - [Unit Testing](#unit-testing)
+- [Other Stuff](#other-stuff)
 
-## Sites
+# Sites
 
 - [Python Docs](https://docs.python.org/3/)
 
 - [Python Reference](https://docs.python.org/3/reference/)
-
-- [Python Tutorial](https://docs.python.org/3/tutorial/index.html)
 
 - [Python Wiki](https://wiki.python.org/moin/)
 
@@ -20,9 +31,9 @@
 
 - [Object Oriented Programming in Python](https://www.youtube.com/watch?v=Ej_02ICOIgs) (freeCodeCamp)
 
-## General Topics
+# Language Fundamentals
 
-- [Hello World](https://realpython.com/interacting-with-python/)
+- [Getting Started - Python Docs](https://docs.python.org/3/tutorial/index.html)
 
 - [Built-in DataTypes](https://docs.python.org/3/library/stdtypes.html)
 
@@ -46,6 +57,10 @@
 
 - Loops
 
+  - [`while` loop](https://docs.python.org/3/reference/compound_stmts.html#the-while-statement)
+
+  - [`for` loop](https://docs.python.org/3/reference/compound_stmts.html#the-for-statement)
+
   - `break` & `continue`
 
 - Exception Handling
@@ -59,9 +74,8 @@
 - [Keywords](https://realpython.com/python-keywords/#python-keywords)
 
 - [Expressions](https://docs.python.org/3/reference/expressions.html), [Simple Statements](https://docs.python.org/3/reference/simple_stmts.html#the-assert-statement) & [Compound Statements](https://docs.python.org/3/reference/compound_stmts.html)
- 
 
-- Functional Programming
+- Functions
 
   - [Built-In Functions](https://docs.python.org/3/library/functions.html)
 
@@ -133,86 +147,92 @@
 
   - [Data Classes](https://docs.python.org/3/library/dataclasses.html)
 
-- [Python Packages](https://realpython.com/python-modules-packages/#python-packages) (user-defined modules)
+- [Python Packages](https://realpython.com/python-modules-packages/#python-packages) (working with modules)
 
-- [Built-in Modules](https://docs.python.org/3/library/) (Standard Library) ([Complete Index](https://docs.python.org/3/py-modindex.html))
+- [Standard Library](https://docs.python.org/3/library/) ([Complete Index](https://docs.python.org/3/py-modindex.html))
 
-  - [`argparse`](https://docs.python.org/3/library/argparse.html)
+# Modules and Libraries
 
-  - [`copy`](https://docs.python.org/3/library/copy.html)
+## Frequently Used Packages
 
-  - [`csv`](https://docs.python.org/3/library/csv.html)
+- [`argparse`](https://docs.python.org/3/library/argparse.html)
 
-  - [`inspect`](https://docs.python.org/3/library/inspect.html)
+- [`copy`](https://docs.python.org/3/library/copy.html)
 
-  - [`logging`](https://docs.python.org/3/library/logging.html)
+- [`csv`](https://docs.python.org/3/library/csv.html)
 
-  - [`itertools`](https://docs.python.org/3/library/itertools.html)
+- [`inspect`](https://docs.python.org/3/library/inspect.html)
 
-  - [`os`](https://docs.python.org/3/library/os.html)
+- [`logging`](https://docs.python.org/3/library/logging.html)
 
-  - [`pathlib`](https://docs.python.org/3/library/pathlib.html)
+- [`itertools`](https://docs.python.org/3/library/itertools.html)
 
-  - [`random`](https://docs.python.org/3/library/random.html)
+- [`os`](https://docs.python.org/3/library/os.html)
 
-  - [`shutil`](https://docs.python.org/3/library/shutil.html)
+- [`pathlib`](https://docs.python.org/3/library/pathlib.html)
 
-  - [`sqlite3`](https://docs.python.org/3/library/sqlite3.html)
+- [`random`](https://docs.python.org/3/library/random.html)
 
-  - [`subprocess`](https://docs.python.org/3/library/subprocess.html)
+- [`shutil`](https://docs.python.org/3/library/shutil.html)
 
-  - [`sys`](https://docs.python.org/3/library/sys.html)
+- [`sqlite3`](https://docs.python.org/3/library/sqlite3.html)
 
-  - [`unittest`](https://docs.python.org/3/library/unittest.html)
+- [`subprocess`](https://docs.python.org/3/library/subprocess.html)
 
-  - [`urllib`](https://docs.python.org/3/library/urllib.html)
+- [`sys`](https://docs.python.org/3/library/sys.html)
 
-- [Asynchronous Programming](https://docs.python.org/3/library/asyncio.html)
+- [`unittest`](https://docs.python.org/3/library/unittest.html)
 
-  - [`asyncio`](https://docs.python.org/3/library/asyncio-task.html#id3) - [TechWithTim Video](https://www.youtube.com/watch?v=t5Bo1Je9EmE)
+- [`urllib`](https://docs.python.org/3/library/urllib.html)
 
-  - [Streams](https://docs.python.org/3/library/asyncio-stream.html)
+## [Asynchronous Programming](https://docs.python.org/3/library/asyncio.html)
 
-- Concurrency
+- [`asyncio`](https://docs.python.org/3/library/asyncio-task.html#id3) - [TechWithTim Video](https://www.youtube.com/watch?v=t5Bo1Je9EmE)
 
-  - [threading](https://docs.python.org/3/library/threading.html)
+- [Streams](https://docs.python.org/3/library/asyncio-stream.html)
 
-  - [multiprocessing](https://docs.python.org/3/library/multiprocessing.html)
+## Concurrency
 
-  - [concurrent.futures](https://docs.python.org/3/library/concurrent.futures.html#module-concurrent.futures)
+- [threading](https://docs.python.org/3/library/threading.html)
 
-- [Networking Programing](https://docs.python.org/3/library/ipc.html)
+- [multiprocessing](https://docs.python.org/3/library/multiprocessing.html)
 
-  - [`socket`](https://realpython.com/python-sockets/)
+- [concurrent.futures](https://docs.python.org/3/library/concurrent.futures.html#module-concurrent.futures)
 
-  - [`selector`](https://docs.python.org/3/library/selectors.html) (concurrency)
+## [Networking Programing](https://docs.python.org/3/library/ipc.html)
 
-- Virtual Environments
+- [`socket`](https://realpython.com/python-sockets/)
 
-  - [venv](https://docs.python.org/3/library/venv.html) (python standard lib)
+- [`selector`](https://docs.python.org/3/library/selectors.html) (concurrency)
 
-  - [virtualenv](https://virtualenv.pypa.io/en/latest/) (python package)
+## Virtual Environments
 
-  - [pipenv](https://realpython.com/pipenv-guide/)
+- [venv](https://docs.python.org/3/library/venv.html) (built-in version of virtualenv)
 
-  - [pyenv](https://github.com/pyenv/pyenv) (python executable management)
+- [virtualenv](https://virtualenv.pypa.io/en/latest/)
 
-  - [Conda](https://docs.conda.io/projects/conda/en/latest/index.html) (environment management system)
+- [pipenv](https://realpython.com/pipenv-guide/)
 
-- Linting
+- [pyenv](https://github.com/pyenv/pyenv) (python executable management)
 
-  - [Pylint](https://pylint.pycqa.org/en/latest/)
+- [Conda](https://docs.conda.io/projects/conda/en/latest/index.html) (environment management system)
 
-- Static Typing
+## Linting
 
-  - [`typing`](https://docs.python.org/3/library/typing.html) module
+- [Pylint](https://pylint.pycqa.org/en/latest/)
 
-  - mypy
+## Static Typing
 
-- Unit Testing
-  - [pytest](https://docs.pytest.org/en/7.1.x/)
+- [`typing`](https://docs.python.org/3/library/typing.html) module
 
-## Other Stuff
+- mypy
+
+## Unit Testing
+
+- [pytest](https://docs.pytest.org/en/7.1.x/)
+
+
+# Other Stuff
 
 - [Static Analysis Tools](https://luminousmen.com/post/python-static-analysis-tools)
 
