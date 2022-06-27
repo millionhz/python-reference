@@ -3,7 +3,7 @@
 - [Sites](#sites)
 - [Language Fundamentals](#language-fundamentals)
 - [Modules and Libraries](#modules-and-libraries)
-  - [Frequently Used Packages](#frequently-used-packages)
+  - [Standard Library](#standard-library)
   - [Asynchronous Programming](#asynchronous-programming)
   - [Concurrency](#concurrency)
   - [Networking Programing](#networking-programing)
@@ -149,11 +149,11 @@
 
 - [Python Packages](https://realpython.com/python-modules-packages/#python-packages) (working with modules)
 
-- [Standard Library](https://docs.python.org/3/library/) ([Complete Index](https://docs.python.org/3/py-modindex.html))
-
 # Modules and Libraries
 
-## Frequently Used Packages
+## [Standard Library](https://docs.python.org/3/library/) 
+
+- [**Complete Index**](https://docs.python.org/3/py-modindex.html)
 
 - [`argparse`](https://docs.python.org/3/library/argparse.html)
 
