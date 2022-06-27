@@ -195,7 +195,9 @@
 
   - [pipenv](https://realpython.com/pipenv-guide/)
 
-  - [pyenv](https://github.com/pyenv/pyenv)
+  - [pyenv](https://github.com/pyenv/pyenv) (python executable management)
+
+  - [Conda](https://docs.conda.io/projects/conda/en/latest/index.html) (environment management system)
 
 - Linting
 
@@ -209,10 +211,6 @@
 
 - Unit Testing
   - [pytest](https://docs.pytest.org/en/7.1.x/)
-
-- Machine Learning
-
-  - [Conda](https://docs.conda.io/projects/conda/en/latest/index.html)
 
 ## Other Stuff
 
