@@ -12,6 +12,7 @@
   - [Static Typing](#static-typing)
   - [Unit Testing](#unit-testing)
 - [Other Stuff](#other-stuff)
+- [Courses and Tutorials](#courses-and-tutorials)
 
 # Sites
 
@@ -19,17 +20,9 @@
 
 - [Python Reference](https://docs.python.org/3/reference/)
 
+- [Python Glossary]()
+
 - [Python Wiki](https://wiki.python.org/moin/)
-
-- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
-
-- [Intro to Python - Real Python](https://realpython.com/learning-paths/python3-introduction/)
-
-- [Python Playlist](https://www.youtube.com/playlist?list=PLWKjhJtqVAbnqBxcdjVGgT3uVR10bzTEB) (freeCodeCamp)
-
-- [Intermediate Python Programming](https://www.youtube.com/watch?v=HGOBQPFzWKo) (freeCodeCamp)
-
-- [Object Oriented Programming in Python](https://www.youtube.com/watch?v=Ej_02ICOIgs) (freeCodeCamp)
 
 # Language Fundamentals
 
@@ -153,8 +146,6 @@
 
 ## [Standard Library](https://docs.python.org/3/library/) 
 
-- [**Complete Index**](https://docs.python.org/3/py-modindex.html)
-
 - [`argparse`](https://docs.python.org/3/library/argparse.html)
 
 - [`copy`](https://docs.python.org/3/library/copy.html)
@@ -184,6 +175,8 @@
 - [`unittest`](https://docs.python.org/3/library/unittest.html)
 
 - [`urllib`](https://docs.python.org/3/library/urllib.html)
+
+([**Complete Index**](https://docs.python.org/3/py-modindex.html))
 
 ## [Asynchronous Programming](https://docs.python.org/3/library/asyncio.html)
 
@@ -241,3 +234,11 @@
 - [Docstrings](https://realpython.com/documenting-python-code/) (documenting code)
 
 - [Python Lexical Analysis](https://docs.python.org/3/reference/lexical_analysis.html)
+
+# Courses and Tutorials
+
+- [Python Playlist](https://www.youtube.com/playlist?list=PLWKjhJtqVAbnqBxcdjVGgT3uVR10bzTEB) (freeCodeCamp)
+
+- [Intermediate Python Programming](https://www.youtube.com/watch?v=HGOBQPFzWKo) (freeCodeCamp)
+
+- [Object Oriented Programming in Python](https://www.youtube.com/watch?v=Ej_02ICOIgs) (freeCodeCamp)
