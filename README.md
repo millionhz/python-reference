@@ -26,7 +26,7 @@
 
 # Language Fundamentals
 
-- [Getting Started - Python Docs](https://docs.python.org/3/tutorial/index.html)
+- [Getting Started - Python Tutorial](https://docs.python.org/3/tutorial/index.html)
 
 - [Built-in DataTypes](https://docs.python.org/3/library/stdtypes.html)
 
