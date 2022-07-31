@@ -42,6 +42,8 @@
 
   - [Walrus Operator](https://realpython.com/python-walrus-operator/)
 
+  - [Unpacking Operator (`*` & `**`)](https://realpython.com/python-kwargs-and-args/#unpacking-with-the-asterisk-operators/)
+
 - Control Flow
 
   - `if`, `elif` and `else`
@@ -72,8 +74,7 @@
 
   - [Built-In Functions](https://docs.python.org/3/library/functions.html)
 
-  - [Variadic Arguments (`*args` & `**kwargs`)](https://docs.python.org/3/tutorial/controlflow.html#more-on-defining-functions) ([realpython](https://realpython.com/python-kwargs-and-args/))
-
+  - [Function Arguments (`*args` & `**kwargs`)](https://docs.python.org/3/tutorial/controlflow.html#more-on-defining-functions)
   - Lambda Functions
 
   - [Decorators](https://www.youtube.com/watch?v=FsAPt_9Bf3U)
