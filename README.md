@@ -145,6 +145,8 @@
 
 # Modules and Libraries
 
+- [pip Docs](https://pip.pypa.io/en/stable/getting-started/)
+
 ## [Standard Library](https://docs.python.org/3/library/) 
 
 - [`argparse`](https://docs.python.org/3/library/argparse.html)
