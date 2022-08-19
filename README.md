@@ -189,7 +189,7 @@
 
 ## Concurrency
 
-- [threading](https://docs.python.org/3/library/threading.html)
+- [threading](https://docs.python.org/3/library/threading.html) ([Intro to threading](https://realpython.com/intro-to-python-threading/))
 
 - [multiprocessing](https://docs.python.org/3/library/multiprocessing.html)
 
