@@ -149,41 +149,41 @@
 
 ## [Standard Library](https://docs.python.org/3/library/) 
 
-- [`argparse`](https://docs.python.org/3/library/argparse.html)
+- [argparse](https://docs.python.org/3/library/argparse.html)
 
-- [`copy`](https://docs.python.org/3/library/copy.html)
+- [copy](https://docs.python.org/3/library/copy.html)
 
-- [`csv`](https://docs.python.org/3/library/csv.html)
+- [csv](https://docs.python.org/3/library/csv.html)
 
-- [`inspect`](https://docs.python.org/3/library/inspect.html)
+- [inspect](https://docs.python.org/3/library/inspect.html)
 
-- [`logging`](https://docs.python.org/3/library/logging.html)
+- [logging](https://docs.python.org/3/library/logging.html)
 
-- [`itertools`](https://docs.python.org/3/library/itertools.html)
+- [itertools](https://docs.python.org/3/library/itertools.html)
 
-- [`os`](https://docs.python.org/3/library/os.html)
+- [os](https://docs.python.org/3/library/os.html)
 
-- [`pathlib`](https://docs.python.org/3/library/pathlib.html)
+- [pathlib](https://docs.python.org/3/library/pathlib.html)
 
-- [`random`](https://docs.python.org/3/library/random.html)
+- [random](https://docs.python.org/3/library/random.html)
 
-- [`shutil`](https://docs.python.org/3/library/shutil.html)
+- [shutil](https://docs.python.org/3/library/shutil.html)
 
-- [`sqlite3`](https://docs.python.org/3/library/sqlite3.html)
+- [sqlite3](https://docs.python.org/3/library/sqlite3.html)
 
-- [`subprocess`](https://docs.python.org/3/library/subprocess.html)
+- [subprocess](https://docs.python.org/3/library/subprocess.html)
 
-- [`sys`](https://docs.python.org/3/library/sys.html)
+- [sys](https://docs.python.org/3/library/sys.html)
 
-- [`unittest`](https://docs.python.org/3/library/unittest.html)
+- [unittest](https://docs.python.org/3/library/unittest.html)
 
-- [`urllib`](https://docs.python.org/3/library/urllib.html)
+- [urllib](https://docs.python.org/3/library/urllib.html)
 
 ([**Complete Index**](https://docs.python.org/3/py-modindex.html))
 
 ## [Asynchronous Programming](https://docs.python.org/3/library/asyncio.html)
 
-- [`asyncio`](https://docs.python.org/3/library/asyncio-task.html#id3) - [TechWithTim Video](https://www.youtube.com/watch?v=t5Bo1Je9EmE)
+- [asyncio](https://docs.python.org/3/library/asyncio-task.html#id3) - [TechWithTim Video](https://www.youtube.com/watch?v=t5Bo1Je9EmE)
 
 - [Streams](https://docs.python.org/3/library/asyncio-stream.html)
 
@@ -197,9 +197,9 @@
 
 ## [Networking Programing](https://docs.python.org/3/library/ipc.html)
 
-- [`socket`](https://realpython.com/python-sockets/)
+- [socket](https://realpython.com/python-sockets/)
 
-- [`selector`](https://docs.python.org/3/library/selectors.html) (concurrency)
+- [selector](https://docs.python.org/3/library/selectors.html) (concurrency)
 
 ## Virtual Environments
 
@@ -219,7 +219,7 @@
 
 ## Static Typing
 
-- [`typing`](https://docs.python.org/3/library/typing.html) module
+- [typing](https://docs.python.org/3/library/typing.html)
 
 - mypy
 
