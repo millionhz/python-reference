@@ -211,7 +211,7 @@
 
 - [pyenv](https://github.com/pyenv/pyenv) (python executable management)
 
-- [Conda](https://docs.conda.io/projects/conda/en/latest/index.html) (environment management system)
+- [Conda](https://docs.conda.io/projects/conda/en/latest/index.html)
 
 ## Linting
 
