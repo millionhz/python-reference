@@ -147,13 +147,15 @@
 
 - [pip Docs](https://pip.pypa.io/en/stable/getting-started/)
 
-## [Standard Library](https://docs.python.org/3/library/) 
+## [Standard Library](https://docs.python.org/3/library/)
 
 - [argparse](https://docs.python.org/3/library/argparse.html)
 
 - [copy](https://docs.python.org/3/library/copy.html)
 
 - [csv](https://docs.python.org/3/library/csv.html)
+
+- [functools](https://docs.python.org/3/library/functools.html)
 
 - [inspect](https://docs.python.org/3/library/inspect.html)
 
