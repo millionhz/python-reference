@@ -1,6 +1,8 @@
 # Python Reference
 - [Python Reference](#python-reference)
 - [Sites](#sites)
+  - [Official](#official)
+  - [Courses and Tutorials](#courses-and-tutorials)
 - [Language Fundamentals](#language-fundamentals)
 - [Modules and Libraries](#modules-and-libraries)
   - [Standard Library](#standard-library)
@@ -11,18 +13,33 @@
   - [Linting](#linting)
   - [Static Typing](#static-typing)
   - [Unit Testing](#unit-testing)
-- [Other Stuff](#other-stuff)
-- [Courses and Tutorials](#courses-and-tutorials)
+- [Data Science & Machine Learning](#data-science--machine-learning)
+  - [Environments](#environments)
+  - [Data Sceince](#data-sceince)
+  - [Machine Learning](#machine-learning)
 
 # Sites
+
+## Official
 
 - [Python Docs](https://docs.python.org/3/)
 
 - [Python Reference](https://docs.python.org/3/reference/)
 
-- [Python Glossary]()
+- [PEP-8](https://www.python.org/dev/peps/pep-0008/) style guide
 
 - [Python Wiki](https://wiki.python.org/moin/)
+
+- [Python Lexical Analysis](https://docs.python.org/3/reference/lexical_analysis.html)
+
+
+## Courses and Tutorials
+
+- [Python Playlist](https://www.youtube.com/playlist?list=PLWKjhJtqVAbnqBxcdjVGgT3uVR10bzTEB) (freeCodeCamp)
+
+- [Intermediate Python Programming](https://www.youtube.com/watch?v=HGOBQPFzWKo) (freeCodeCamp)
+
+- [Object Oriented Programming in Python](https://www.youtube.com/watch?v=Ej_02ICOIgs) (freeCodeCamp)
 
 # Language Fundamentals
 
@@ -143,6 +160,8 @@
 
 - [Python Packages](https://realpython.com/python-modules-packages/#python-packages) (working with modules)
 
+- [Docstrings](https://realpython.com/documenting-python-code/) (documenting code)
+
 # Modules and Libraries
 
 - [pip Docs](https://pip.pypa.io/en/stable/getting-started/)
@@ -150,35 +169,20 @@
 ## [Standard Library](https://docs.python.org/3/library/)
 
 - [argparse](https://docs.python.org/3/library/argparse.html)
-
 - [copy](https://docs.python.org/3/library/copy.html)
-
 - [csv](https://docs.python.org/3/library/csv.html)
-
 - [functools](https://docs.python.org/3/library/functools.html)
-
 - [inspect](https://docs.python.org/3/library/inspect.html)
-
 - [logging](https://docs.python.org/3/library/logging.html)
-
 - [itertools](https://docs.python.org/3/library/itertools.html)
-
 - [os](https://docs.python.org/3/library/os.html)
-
 - [pathlib](https://docs.python.org/3/library/pathlib.html)
-
 - [random](https://docs.python.org/3/library/random.html)
-
 - [shutil](https://docs.python.org/3/library/shutil.html)
-
 - [sqlite3](https://docs.python.org/3/library/sqlite3.html)
-
 - [subprocess](https://docs.python.org/3/library/subprocess.html)
-
 - [sys](https://docs.python.org/3/library/sys.html)
-
 - [unittest](https://docs.python.org/3/library/unittest.html)
-
 - [urllib](https://docs.python.org/3/library/urllib.html)
 
 ([**Complete Index**](https://docs.python.org/3/py-modindex.html))
@@ -221,6 +225,8 @@
 
 ## Static Typing
 
+- [Static Analysis Tools](https://luminousmen.com/post/python-static-analysis-tools)
+
 - [typing](https://docs.python.org/3/library/typing.html)
 
 - mypy
@@ -229,21 +235,24 @@
 
 - [pytest](https://docs.pytest.org/en/7.1.x/)
 
+# Data Science & Machine Learning
 
-# Other Stuff
+## Environments
 
-- [Static Analysis Tools](https://luminousmen.com/post/python-static-analysis-tools)
+- [Conda](https://docs.conda.io/projects/conda/en/latest/user-guide/getting-started.html)
 
-- [PEP-8](https://www.python.org/dev/peps/pep-0008/) style guide
+- [Jupyter](https://jupyterlab.readthedocs.io/en/stable/)
 
-- [Docstrings](https://realpython.com/documenting-python-code/) (documenting code)
+## Data Sceince
 
-- [Python Lexical Analysis](https://docs.python.org/3/reference/lexical_analysis.html)
+- Numpy
 
-# Courses and Tutorials
+- Pandas
 
-- [Python Playlist](https://www.youtube.com/playlist?list=PLWKjhJtqVAbnqBxcdjVGgT3uVR10bzTEB) (freeCodeCamp)
+- Matplotlib
 
-- [Intermediate Python Programming](https://www.youtube.com/watch?v=HGOBQPFzWKo) (freeCodeCamp)
+## Machine Learning
 
-- [Object Oriented Programming in Python](https://www.youtube.com/watch?v=Ej_02ICOIgs) (freeCodeCamp)
+- Tensorflow
+
+- Keras
