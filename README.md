@@ -13,10 +13,6 @@
   - [Linting](#linting)
   - [Static Typing](#static-typing)
   - [Unit Testing](#unit-testing)
-- [Data Science & Machine Learning](#data-science--machine-learning)
-  - [Environments](#environments)
-  - [Data Sceince](#data-sceince)
-  - [Machine Learning](#machine-learning)
 
 # Sites
 
@@ -234,25 +230,3 @@
 ## Unit Testing
 
 - [pytest](https://docs.pytest.org/en/7.1.x/)
-
-# Data Science & Machine Learning
-
-## Environments
-
-- [Conda](https://docs.conda.io/projects/conda/en/latest/user-guide/getting-started.html)
-
-- [Jupyter](https://jupyterlab.readthedocs.io/en/stable/)
-
-## Data Sceince
-
-- Numpy
-
-- Pandas
-
-- Matplotlib
-
-## Machine Learning
-
-- Tensorflow
-
-- Keras
