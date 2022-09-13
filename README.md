@@ -94,7 +94,7 @@
 
   - Closures and `nonlocal` keyword
 
-  - Generators
+  - [Generators](https://realpython.com/introduction-to-python-generators/)
 
 - [Data Types and Data Structures](https://docs.python.org/3/library/datatypes.html)
 
