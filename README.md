@@ -108,7 +108,7 @@
 
   - [Binary Sequence Types](https://docs.python.org/3/library/stdtypes.html#binary-sequence-types-bytes-bytearray-memoryview)
 
-  - [Iterators](https://docs.python.org/3/library/stdtypes.html#iterator-types)
+  - [Iterators](https://docs.python.org/3/library/stdtypes.html#iterator-types) ([tutorial](https://www.programiz.com/python-programming/iterator))
 
   - [`queue`](https://docs.python.org/3/library/queue.html)
 
