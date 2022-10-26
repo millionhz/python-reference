@@ -122,6 +122,8 @@
 
   - [`collections.abc`](https://docs.python.org/3/library/collections.abc.html) (abstract base class)
 
+  - [`enum`](https://docs.python.org/3/library/enum.html)
+
   - [Time Complexities](https://wiki.python.org/moin/TimeComplexity)
 
 - [Mutability](https://medium.com/@meghamohan/mutable-and-immutable-side-of-python-c2145cf72747)
