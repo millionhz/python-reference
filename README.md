@@ -1,4 +1,5 @@
 # Python Reference
+
 - [Python Reference](#python-reference)
 - [Sites](#sites)
   - [Official](#official)
@@ -27,7 +28,6 @@
 - [Python Wiki](https://wiki.python.org/moin/)
 
 - [Python Lexical Analysis](https://docs.python.org/3/reference/lexical_analysis.html)
-
 
 ## Courses and Tutorials
 
@@ -159,6 +159,8 @@
 - [Python Packages](https://realpython.com/python-modules-packages/#python-packages) (working with modules)
 
 - [Docstrings](https://realpython.com/documenting-python-code/) (documenting code)
+
+- [Typing](https://realpython.com/python-type-checking/)
 
 # Modules and Libraries
 
