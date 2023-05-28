@@ -14,6 +14,7 @@
   - [Linting](#linting)
   - [Static Typing](#static-typing)
   - [Unit Testing](#unit-testing)
+  - [Backend Development](#backend-development)
 
 # Sites
 
@@ -234,3 +235,7 @@
 ## Unit Testing
 
 - [pytest](https://docs.pytest.org/en/7.1.x/)
+
+## Backend Development
+
+- [FastAPI](https://fastapi.tiangolo.com/lo/)
